@@ -1,0 +1,24 @@
+{
+  "name": "node-express-course",
+  "version": "0.1.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericteen/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "eric_cheng <chengteen@163.com> (https://github.com/Ericteen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ericteen/node-express-course/issues"
+  },
+  "homepage": "https://github.com/Ericteen/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
